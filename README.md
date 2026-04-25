@@ -236,4 +236,4 @@ MIT
 
 ## Credits
 
-Powered by [graphify](https://github.com/pyshine/graphify) | A [PyShine](https://pyshine.com) project
+Powered by [graphify](https://github.com/pyshine/graphify) 
