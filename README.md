@@ -227,8 +227,9 @@ On Linux/macOS, you may need sudo for system-wide Python installation.
 ### Large codebases
 For repos with 200+ files or 2M+ words, consider running on subdirectories.
 
+### graphified by [![PyShine](https://img.shields.io/badge/PyShine-blue?style=flat-square&link=https://pyshine.com)](https://pyshine.com)
+
 ## License
-[![PyShine](https://img.shields.io/badge/PyShine-blue?style=flat-square&link=https://pyshine.com)](https://pyshine.com)
 MIT
 
 ## Credits
