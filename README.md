@@ -6,6 +6,8 @@
 
 **Knowledge Graph Generator for Code Repositories**
 
+[![PyShine](https://img.shields.io/badge/by-PyShine-blue?style=flat-square&link=https://pyshine.com)](https://pyshine.com)
+
 A single-file, cross-platform CLI tool that generates knowledge graphs from any code repository. Zero-config, fail-safe, works everywhere.
 
 ## Features
@@ -234,4 +236,4 @@ MIT
 
 ## Credits
 
-Powered by [graphify](https://github.com/pyshine/graphify)
+Powered by [graphify](https://github.com/pyshine/graphify) | A [PyShine](https://pyshine.com) project
